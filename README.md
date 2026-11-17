@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-11-17 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-11-16 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-11-17 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-11-17 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 
 ---
 
