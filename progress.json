@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:50:50.149Z",
+  "generated_at": "2026-11-17T19:32:55.100Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-11-17T18:50:45.910Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:414": {
+      "kind": "problem",
+      "id": "414",
+      "title": "Compute Arithmetic Intensity and Classify Bottleneck",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/414",
+      "path": "problems/0414-compute-arithmetic-intensity-and-classify-bottleneck",
+      "first_solved_at": "2026-11-17T19:32:50.630Z",
+      "last_pushed_at": "2026-11-17T19:32:50.630Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
