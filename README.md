@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-11-19 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [GPU Ops:Byte Ratio Calculation from Spec Sheet](https://www.deep-ml.com/problems/421) | easy | 2026-11-18 | [solution](problems/0421-gpu-ops-byte-ratio-calculation-from-spec-sheet) |
 | [KV Cache Size Estimator for MLA vs MHA vs GQA](https://www.deep-ml.com/problems/1012) | easy | 2026-11-19 | [solution](problems/1012-kv-cache-size-estimator-for-mla-vs-mha-vs-gqa) |
+| [Micro-batch Inference Throughput Estimation](https://www.deep-ml.com/problems/781) | easy | 2026-11-19 | [solution](problems/0781-micro-batch-inference-throughput-estimation) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-18 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-18 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-18 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
