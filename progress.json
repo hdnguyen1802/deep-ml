@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:24:02.702Z",
+  "generated_at": "2026-11-19T12:43:05.642Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -169,6 +169,19 @@
       "last_pushed_at": "2026-11-19T12:24:01.694Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1030": {
+      "kind": "problem",
+      "id": "1030",
+      "title": "Sequential Weight Loading Peak Memory Simulation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1030",
+      "path": "problems/1030-sequential-weight-loading-peak-memory-simulation",
+      "first_solved_at": "2026-11-19T12:43:04.706Z",
+      "last_pushed_at": "2026-11-19T12:43:04.706Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
