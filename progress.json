@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:06:42.045Z",
+  "generated_at": "2026-11-19T11:35:11.458Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-11-18T19:06:40.719Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:418": {
+      "kind": "problem",
+      "id": "418",
+      "title": "Estimate KV Cache Size from Model Config",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/418",
+      "path": "problems/0418-estimate-kv-cache-size-from-model-config",
+      "first_solved_at": "2026-11-19T11:35:08.166Z",
+      "last_pushed_at": "2026-11-19T11:35:08.166Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

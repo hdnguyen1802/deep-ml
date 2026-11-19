@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-18 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-18 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-11-17 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-19 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-11-17 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-11-17 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 
