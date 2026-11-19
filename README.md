@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-11-17 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-11-17 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-11-16 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
+| [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-11-19 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [GPU Ops:Byte Ratio Calculation from Spec Sheet](https://www.deep-ml.com/problems/421) | easy | 2026-11-18 | [solution](problems/0421-gpu-ops-byte-ratio-calculation-from-spec-sheet) |
 | [KV Cache Size Estimator for MLA vs MHA vs GQA](https://www.deep-ml.com/problems/1012) | easy | 2026-11-19 | [solution](problems/1012-kv-cache-size-estimator-for-mla-vs-mha-vs-gqa) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-18 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
