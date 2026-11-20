@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:26:42.012Z",
+  "generated_at": "2026-11-20T20:54:39.345Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -221,6 +221,19 @@
       "last_pushed_at": "2026-11-20T19:26:39.457Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:2038": {
+      "kind": "problem",
+      "id": "2038",
+      "title": "Normalized Latency and the Highest Request Rate a Server Sustains",
+      "difficulty": "easy",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/2038",
+      "path": "problems/2038-normalized-latency-and-the-highest-request-rate-a-server-sustains",
+      "first_solved_at": "2026-11-20T20:54:36.346Z",
+      "last_pushed_at": "2026-11-20T20:54:36.346Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
