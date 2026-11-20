@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:10:50.030Z",
+  "generated_at": "2026-11-20T21:12:16.795Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -245,6 +245,17 @@
       "path": "math/0169-cost-per-million-tokens-and-the-break-even-point",
       "first_solved_at": "2026-11-20T21:10:47.311Z",
       "last_pushed_at": "2026-11-20T21:10:47.311Z"
+    },
+    "math:648": {
+      "kind": "math",
+      "id": "648",
+      "title": "One Line or Many: Waiting Time in M/M/c versus Separate M/M/1 Queues",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/648",
+      "path": "math/0648-one-line-or-many-waiting-time-in-m-m-c-versus-separate-m-m-1-queues",
+      "first_solved_at": "2026-11-20T21:12:13.820Z",
+      "last_pushed_at": "2026-11-20T21:12:13.820Z"
     }
   }
 }

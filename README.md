@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 18 problems · 0 labs · 1 math
+**20** solved · 18 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Cost per Million Tokens and the Break-Even Point](https://www.deep-ml.com/math-problems/169) | easy | 2026-11-20 | [solution](math/0169-cost-per-million-tokens-and-the-break-even-point) |
+| [One Line or Many: Waiting Time in M/M/c versus Separate M/M/1 Queues](https://www.deep-ml.com/math-problems/648) | medium | 2026-11-20 | [solution](math/0648-one-line-or-many-waiting-time-in-m-m-c-versus-separate-m-m-1-queues) |
 
 ---
 
