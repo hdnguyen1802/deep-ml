@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:49:22.195Z",
+  "generated_at": "2026-11-20T15:23:31.489Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-11-19T12:49:20.911Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1404": {
+      "kind": "problem",
+      "id": "1404",
+      "title": "On-Device Inference Budget: Size, Latency and FPS",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1404",
+      "path": "problems/1404-on-device-inference-budget-size-latency-and-fps",
+      "first_solved_at": "2026-11-20T15:23:30.023Z",
+      "last_pushed_at": "2026-11-20T15:23:30.023Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
