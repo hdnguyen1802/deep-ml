@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:23:31.489Z",
+  "generated_at": "2026-11-20T19:26:42.012Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-11-20T15:23:30.023Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:1434": {
+      "kind": "problem",
+      "id": "1434",
+      "title": "Tiled Attention Against the SRAM Budget",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1434",
+      "path": "problems/1434-tiled-attention-against-the-sram-budget",
+      "first_solved_at": "2026-11-20T19:26:39.457Z",
+      "last_pushed_at": "2026-11-20T19:26:39.457Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
