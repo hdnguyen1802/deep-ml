@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:21:32.618Z",
+  "generated_at": "2026-11-21T18:50:02.770Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -311,6 +311,19 @@
       "path": "math/0605-memory-saved-by-sharing-kv-blocks-parallel-sampling-and-beam-search",
       "first_solved_at": "2026-11-21T14:21:30.222Z",
       "last_pushed_at": "2026-11-21T14:21:30.222Z"
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-11-21T18:50:00.065Z",
+      "last_pushed_at": "2026-11-21T18:50:00.065Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

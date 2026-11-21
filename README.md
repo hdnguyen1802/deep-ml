@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 18 problems · 0 labs · 7 math
+**26** solved · 19 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-18 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-11-17 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-19 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
+| [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-11-21 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-11-17 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Sequential Weight Loading Peak Memory Simulation](https://www.deep-ml.com/problems/1030) | medium | 2026-11-19 | [solution](problems/1030-sequential-weight-loading-peak-memory-simulation) |
 | [Tiled Attention Against the SRAM Budget](https://www.deep-ml.com/problems/1434) | medium | 2026-11-20 | [solution](problems/1434-tiled-attention-against-the-sram-budget) |
