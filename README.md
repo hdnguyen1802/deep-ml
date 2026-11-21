@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 18 problems · 0 labs · 5 math
+**24** solved · 18 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cost per Million Tokens and the Break-Even Point](https://www.deep-ml.com/math-problems/169) | easy | 2026-11-20 | [solution](math/0169-cost-per-million-tokens-and-the-break-even-point) |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-11-21 | [solution](math/0067-pagedattention-internal-fragmentation) |
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-11-21 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
+| [Choosing the KV Block Size: Fragmentation, Sharing and Swap Transfers](https://www.deep-ml.com/math-problems/606) | medium | 2026-11-21 | [solution](math/0606-choosing-the-kv-block-size-fragmentation-sharing-and-swap-transfers) |
 | [One Line or Many: Waiting Time in M/M/c versus Separate M/M/1 Queues](https://www.deep-ml.com/math-problems/648) | medium | 2026-11-20 | [solution](math/0648-one-line-or-many-waiting-time-in-m-m-c-versus-separate-m-m-1-queues) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-11-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 
