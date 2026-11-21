@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:07:04.302Z",
+  "generated_at": "2026-11-21T12:23:44.377Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -278,6 +278,17 @@
       "path": "math/0068-prefix-cache-hit-rate-and-ttft",
       "first_solved_at": "2026-11-21T12:07:02.390Z",
       "last_pushed_at": "2026-11-21T12:07:02.390Z"
+    },
+    "math:171": {
+      "kind": "math",
+      "id": "171",
+      "title": "Disaggregation and Chunked Prefill: The Scheduling Arithmetic",
+      "difficulty": "hard",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/171",
+      "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
+      "first_solved_at": "2026-11-21T12:23:42.351Z",
+      "last_pushed_at": "2026-11-21T12:23:42.351Z"
     }
   }
 }
