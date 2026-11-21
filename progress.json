@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:12:16.795Z",
+  "generated_at": "2026-11-21T11:57:26.136Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -256,6 +256,17 @@
       "path": "math/0648-one-line-or-many-waiting-time-in-m-m-c-versus-separate-m-m-1-queues",
       "first_solved_at": "2026-11-20T21:12:13.820Z",
       "last_pushed_at": "2026-11-20T21:12:13.820Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-11-21T11:57:24.282Z",
+      "last_pushed_at": "2026-11-21T11:57:24.282Z"
     }
   }
 }
