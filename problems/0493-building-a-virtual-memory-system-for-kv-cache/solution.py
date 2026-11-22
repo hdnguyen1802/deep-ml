@@ -12,7 +12,6 @@ class VirtualKVCacheManager:
         self.values = np.zeros(shape)
         self.free_blocks = set(range(num_physical_blocks))
         self.page_tables = {}
-        self.next_positions = {}
 
     def allocate_block(self, seq_id: int) -> int:
         if not self.free_blocks:
@@ -20,6 +19,7 @@ class VirtualKVCacheManager:
 
         physical_id = min(self.free_blocks)
         self.free_blocks.remove(physical_id)
+
         page_table = self.page_tables.setdefault(seq_id, [])
         page_table.append(physical_id)
         return len(page_table) - 1
@@ -38,14 +38,7 @@ class VirtualKVCacheManager:
         physical_id = self.page_tables[seq_id][logical_block]
         self.keys[physical_id, slot] = key
         self.values[physical_id, slot] = value
-        self.next_positions[seq_id] = max(
-            self.next_positions.get(seq_id, 0), position + 1
-        )
         return True
-
-    def append(self, seq_id: int, key, value) -> bool:
-        position = self.next_positions.get(seq_id, 0)
-        return self.write(seq_id, position, key, value)
 
     def read(self, seq_id: int, position: int):
         logical_block, slot = divmod(position, self.block_size)
@@ -53,16 +46,14 @@ class VirtualKVCacheManager:
 
         if 0 <= logical_block < len(page_table):
             physical_id = page_table[logical_block]
-            return (
-                self.keys[physical_id, slot].copy(),
-                self.values[physical_id, slot].copy(),
-            )
+            key = self.keys[physical_id, slot].copy()
+            value = self.values[physical_id, slot].copy()
+            return key, value
 
         return None, None
 
     def free_sequence(self, seq_id: int) -> int:
         page_table = self.page_tables.pop(seq_id, [])
-        self.next_positions.pop(seq_id, None)
 
         for physical_id in page_table:
             self.keys[physical_id].fill(0)
