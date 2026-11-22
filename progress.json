@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:41:27.317Z",
+  "generated_at": "2026-11-22T14:04:40.839Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -350,6 +350,19 @@
       "last_pushed_at": "2026-11-22T13:41:24.250Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:495": {
+      "kind": "problem",
+      "id": "495",
+      "title": "Analyzing Memory Fragmentation in LLM Serving",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/495",
+      "path": "problems/0495-analyzing-memory-fragmentation-in-llm-serving",
+      "first_solved_at": "2026-11-22T14:04:37.981Z",
+      "last_pushed_at": "2026-11-22T14:04:37.981Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
