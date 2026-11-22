@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 22 problems · 0 labs · 7 math
+**30** solved · 23 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normalized Latency and the Highest Request Rate a Server Sustains](https://www.deep-ml.com/problems/2038) | easy | 2026-11-20 | [solution](problems/2038-normalized-latency-and-the-highest-request-rate-a-server-sustains) |
 | [On-Device Inference Budget: Size, Latency and FPS](https://www.deep-ml.com/problems/1404) | easy | 2026-11-20 | [solution](problems/1404-on-device-inference-budget-size-latency-and-fps) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-18 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
+| [Building a Virtual Memory System for KV Cache](https://www.deep-ml.com/problems/493) | medium | 2026-11-22 | [solution](problems/0493-building-a-virtual-memory-system-for-kv-cache) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-18 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-18 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-11-17 | [solution](problems/0413-end-to-end-latency-decomposition) |
