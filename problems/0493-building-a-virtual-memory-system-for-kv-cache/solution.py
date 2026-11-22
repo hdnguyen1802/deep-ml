@@ -27,11 +27,12 @@ class VirtualKVCacheManager:
     def write(self, seq_id: int, position: int, key, value) -> bool:
         logical_block, slot = divmod(position, self.block_size)
         allocated_blocks = len(self.page_tables.get(seq_id, []))
-        blocks_needed = logical_block + 1 - allocated_blocks
+        blocks_needed = max(0, logical_block + 1 - allocated_blocks)
 
         if blocks_needed > len(self.free_blocks):
             return False
-        elif blocks_needed:
+
+        for _ in range(blocks_needed):
             self.allocate_block(seq_id)
 
         physical_id = self.page_tables[seq_id][logical_block]
