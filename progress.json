@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:10:28.109Z",
+  "generated_at": "2026-11-23T12:48:36.128Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -400,6 +400,19 @@
       "path": "problems/0494-copy-on-write-memory-sharing-for-llm-sampling",
       "first_solved_at": "2026-11-23T12:10:26.359Z",
       "last_pushed_at": "2026-11-23T12:10:26.359Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:497": {
+      "kind": "problem",
+      "id": "497",
+      "title": "Preemption Strategies: Swapping vs Recomputation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/497",
+      "path": "problems/0497-preemption-strategies-swapping-vs-recomputation",
+      "first_solved_at": "2026-11-23T12:48:34.222Z",
+      "last_pushed_at": "2026-11-23T12:48:34.222Z",
       "language": "python",
       "lines": 41
     }
