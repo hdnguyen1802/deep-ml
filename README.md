@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 24 problems · 0 labs · 7 math
+**32** solved · 25 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Building a Virtual Memory System for KV Cache](https://www.deep-ml.com/problems/493) | medium | 2026-11-22 | [solution](problems/0493-building-a-virtual-memory-system-for-kv-cache) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-18 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-18 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
+| [Copy-on-Write Memory Sharing for LLM Sampling](https://www.deep-ml.com/problems/494) | medium | 2026-11-23 | [solution](problems/0494-copy-on-write-memory-sharing-for-llm-sampling) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-11-17 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-19 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-11-21 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
