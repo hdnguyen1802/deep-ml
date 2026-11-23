@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 23 problems · 0 labs · 7 math
+**31** solved · 24 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tiled Attention Against the SRAM Budget](https://www.deep-ml.com/problems/1434) | medium | 2026-11-20 | [solution](problems/1434-tiled-attention-against-the-sram-budget) |
 | [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-11-17 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 | [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-11-22 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
+| [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-11-23 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
 | [Pre-allocated Sliding KV Cache Update](https://www.deep-ml.com/problems/1011) | hard | 2026-11-22 | [solution](problems/1011-pre-allocated-sliding-kv-cache-update) |
 
 ## Math
