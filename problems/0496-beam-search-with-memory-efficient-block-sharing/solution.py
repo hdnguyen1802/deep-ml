@@ -28,15 +28,18 @@ def beam_search_block_sharing(log_probs, beam_width, block_size, eos_token=-1):
             })
 
     for step in range(1, max_steps):
-        candidates = [
-            {
-                "parent_index": parent_index,
-                "token_id": token_id,
-                "score": beam["score"] + float(log_probs[step, token_id]),
-            }
-            for parent_index, beam in enumerate(beams)
-            for token_id in range(vocab_size)
-        ]
+        candidates = []
+
+        for parent_index, beam in enumerate(beams):
+            for token_id in range(vocab_size):
+                token_log_prob = float(log_probs[step, token_id])
+                candidate_score = beam["score"] + token_log_prob
+
+                candidates.append({
+                    "parent_index": parent_index,
+                    "token_id": token_id,
+                    "score": candidate_score,
+                })
         candidates.sort(key=lambda candidate: (
             -candidate["score"],
             candidate["parent_index"],
